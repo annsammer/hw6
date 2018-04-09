@@ -22,10 +22,14 @@
 
 ![https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.22.19%20PM.png](https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.22.19%20PM.png)
 
-Г) Проанализировав слова с помощью Concordance Plot, мы можем увидеть положение выбранных слов в тексте. Таким образом, можно сказать о том, что выбранные слова употребляются автором при описании определенных сцен, независимо от их положения в тексте. 
+Г) Проанализировав слова с помощью Concordance Plot, мы можем увидеть расположение выбранных слов в произведении. Таким образом, можно сказать о том, что выбранные слова употребляются автором при описании определенных сцен, независимо от их положения в тексте. 
 
 ![https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.09.26%20PM.png](https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.09.26%20PM.png)
 
 ![https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.20.58%20PM.png](https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.20.58%20PM.png)
 
 ![https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.22.25%20PM.png](https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.22.25%20PM.png)
+
+Д) N-грамма для слова "огонек": 
+![https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.32.29%20PM.png](https://github.com/annsammer/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-04-09%20%D0%B2%2011.32.29%20PM.png)
+
